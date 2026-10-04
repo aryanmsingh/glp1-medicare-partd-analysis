@@ -12,7 +12,7 @@ core commercial analytics work.
 ## Dataset
 Centers for Medicare & Medicaid Services (CMS), Medicare Part D
 Prescribers by Geography and Drug, Public Use File.
-Years: [to fill in] — https://data.cms.gov/provider-summary-by-type-of-service/medicare-part-d-prescribers/medicare-part-d-prescribers-by-geography-and-drug
+Years: 2022-2024 — https://data.cms.gov/provider-summary-by-type-of-service/medicare-part-d-prescribers/medicare-part-d-prescribers-by-geography-and-drug
 - Grain: prescribing aggregated by state and drug
 - Note: CMS suppresses cells with fewer than 11 claims (privacy rule)
 
